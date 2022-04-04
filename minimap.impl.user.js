@@ -76,7 +76,7 @@ const { html, render } = mlp_uhtml;
     });
     rPlaceTemplateNames.push(templateName);
   };
-  addRPlaceTemplate("PSC", { bot: true, mask: true });
+  addRPlaceTemplate("phoenix", { bot: true, mask: true });
   let rPlaceTemplateName;
   let rPlaceTemplate;
   let rPlaceMask = undefined;
